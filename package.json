@@ -1,5 +1,34 @@
 {
+  "name": "node-express-basics",
+  "version": "1.0.0",
+  "description": "this is made by rahul sharma to learn basics of node js and express js",
+  "keywords": [
+    "learn",
+    "node",
+    "js",
+    "express",
+    "js",
+    "javascript"
+  ],
+  "homepage": "https://github.com/Rahul122703/NODE-EXPRESS-learn-#readme",
+  "bugs": {
+    "url": "https://github.com/Rahul122703/NODE-EXPRESS-learn-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahul122703/NODE-EXPRESS-learn-.git"
+  },
+  "license": "ISC",
+  "author": "rahul rajmangal saraswati sharma",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
   "dependencies": {
     "dotenv": "^17.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }

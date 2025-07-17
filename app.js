@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const PORT = process.env.PORT;
 
-const practiceset4 = require("../NOTES/4-usingModules/praticeset");
+const practiceset4 = require("./NOTES/4-usingModules/praticeset");
 
 const http = require("http");
 const server = http.createServer(practiceset4);
