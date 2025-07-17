@@ -53,6 +53,9 @@ const practiceset4 = (req, res) => {
         Number(number1),
         Number(number2)
       )}</h1>
+      <br/>
+      <hr/>
+      <a href = "/"> Home page </a>
     `);
       res.write("</body>");
       res.write("</html>");
